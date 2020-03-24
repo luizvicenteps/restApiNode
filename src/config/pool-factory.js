@@ -6,7 +6,7 @@ const pool = new Pool({
     user: 'postgres',
     host: 'localhost',
     password: 'postgres',
-    database: 'firstapi',
+    database: 'scheduling',
     port: '5432'
 });
 console.log('pool => criado');

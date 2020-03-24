@@ -1,4 +1,4 @@
-CREATE DATABASE firstapi;
+CREATE DATABASE scheduling;
 
 /*l
 
